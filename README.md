@@ -1,3 +1,9 @@
+# start a terminal
+
+space key "Command:"+"Space" and type 'terminal' + Enter
+
+then use the following commands to install brew if you don't have one installed.
+
 # install brew
 
 ```
