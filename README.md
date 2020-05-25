@@ -44,3 +44,4 @@ access the node-red in browser,  http://127.0.0.1:1880/
 # Resources
 - [node](https://nodejs.dev/)
 - [node-red local](https://nodered.org/docs/getting-started/local)
+- [brew](https://brew.sh/)
